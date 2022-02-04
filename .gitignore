@@ -20,4 +20,6 @@ _deps
 # External projects
 *-prefix/
 
-# End of https://www.toptal.com/developers/gitignore/api/cmake
+# End of https://www.toptal.com/developers/gitignore/api/cmake.idea/
+*.wav
+*.png
